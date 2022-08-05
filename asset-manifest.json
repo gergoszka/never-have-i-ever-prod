@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.c0444498.css",
-    "main.js": "/static/js/main.7713f264.js",
-    "static/js/787.cda612ba.chunk.js": "/static/js/787.cda612ba.chunk.js",
-    "index.html": "/index.html",
-    "main.c0444498.css.map": "/static/css/main.c0444498.css.map",
-    "main.7713f264.js.map": "/static/js/main.7713f264.js.map",
-    "787.cda612ba.chunk.js.map": "/static/js/787.cda612ba.chunk.js.map"
+    "main.css": "/never-have-i-ever-prod/static/css/main.053d575b.css",
+    "main.js": "/never-have-i-ever-prod/static/js/main.5294430c.js",
+    "static/js/787.cda612ba.chunk.js": "/never-have-i-ever-prod/static/js/787.cda612ba.chunk.js",
+    "index.html": "/never-have-i-ever-prod/index.html",
+    "main.053d575b.css.map": "/never-have-i-ever-prod/static/css/main.053d575b.css.map",
+    "main.5294430c.js.map": "/never-have-i-ever-prod/static/js/main.5294430c.js.map",
+    "787.cda612ba.chunk.js.map": "/never-have-i-ever-prod/static/js/787.cda612ba.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c0444498.css",
-    "static/js/main.7713f264.js"
+    "static/css/main.053d575b.css",
+    "static/js/main.5294430c.js"
   ]
 }
