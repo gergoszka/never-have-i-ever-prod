@@ -11,9 +11,6 @@ function MainHeader() {
 					<li>
 						<Link to="/randomizer">Randomizer</Link>
 					</li>
-					<li>
-						<Link to="/markov">Markov AI</Link>
-					</li>
 				</ul>
 			</nav>
 		</header>
